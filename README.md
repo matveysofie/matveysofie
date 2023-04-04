@@ -1,4 +1,4 @@
-![Header](https://github.com/matveysofie/matveysofie/blob/main/assets/HEADER.gif)
+![Header](https://github.com/matveysofie/matveysofie/blob/main/assets/HEADER.jpg)
 <h1 align="center"> 👋 </h1>
 
 <p align="center">
