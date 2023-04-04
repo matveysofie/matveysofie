@@ -2,7 +2,11 @@
 <h1 align="center"> 👋 </h1>
 
 <p align="center">
-  <samp>I'm a Backend developer. A highly resourceful computer programmer and well-rounded IT professional with over two years. Continue........
+  <samp>I'm a Backend developer. A highly resourceful computer programmer and well-rounded IT professional with over two years. 
+  I have been swimming in the IT industry for about five years, but I have 2 years of commercial experience. For personal interest, I got acquainted with the interface frameworks: VueJS, React, Quasar. But still, I prefer to work and develop in the backend direction more.
+    <samp>
+    From student times:
+    During her studies, she studied modern design technologies, creating site layouts, implementing adaptive layout. In her specialization, she developed in HTML, CSS, JavaScript, Python, PHP, including various frameworks and CMS.
   <samp>
 </p>
 
